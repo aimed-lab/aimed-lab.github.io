@@ -42,11 +42,12 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 
 Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
 
-Office: (205) 996-0738 
-Email: jakechen@uab.edu 
-Mailing Address:
-144, Tinsley Harrison Tower, 
-McCallum Bldg, 
-1900 University Blvd, 
-Birmingham, AL 35233
+
+- Office: (205) 996-0738
+- Email: jakechen@uab.edu 
+- Mailing Address:
+- 144, Tinsley Harrison Tower, 
+- McCallum Bldg, 
+- 1900 University Blvd, 
+- Birmingham, AL 35233
 
