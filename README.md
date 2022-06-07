@@ -2,6 +2,7 @@
 
 The AI.MED lab uses translational bioinformatics to develop innovative techniques and create new databases and discover novel biomedical information to improve clinical care, diagnosis and treatment. The Bioinformatics Lab provides services to manage and analyze next-generation sequencing data. The team includes individuals with skills in bioinformatics, computer science, and statistics.The AI.MED lab uses translational bioinformatics to develop innovative techniques and create new databases and discover novel biomedical information to improve clinical care, diagnosis and treatment. The Bioinformatics Lab provides services to manage and analyze next-generation sequencing data. The team includes individuals with skills in bioinformatics, computer science, and statistics.
 
+```next step add photos
 
 ## Geonomic Data Science 
 
