@@ -1,7 +1,6 @@
 ---
 layout: default
-title: BEERE
-parent: Tools
+title: Contact Us
 nav_order: 3
 ---
-# BEERE
+# Contact Us
