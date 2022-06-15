@@ -24,7 +24,7 @@ The ai.MED laboratory, directed by Prof. Jake Chen at UAB, aims to accelerate in
 - Office: (205) 996-0738
 - Email: jakechen@uab.edu 
 - Mailing Address:
-- 144, Tinsley Harrison Tower, 
+- 144, Tinsley Harrison Tower 
 - McCallum Bldg, 
 - 1900 University Blvd, 
 - Birmingham, AL 35233
