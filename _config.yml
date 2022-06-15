@@ -1,3 +1,7 @@
 remote_theme: just-the-docs/just-the-docs
 # Set a path/url to a logo that will be displayed instead of the title
 logo: "/assets/images/aimedlogo.webp"
+
+aux_links:
+  "AI.MED LAB Website":
+    - "https://aimed-lab.org/"
