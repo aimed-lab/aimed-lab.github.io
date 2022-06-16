@@ -10,7 +10,7 @@ nav_order: 1
 [Web Tool](https://aimed-lab.shinyapps.io/SEAS/){:target="_blank"}{: .btn .btn-blue }
 [Docs](https://aimed-uab.github.io/SEAS/){:target="_blank"}{: .btn .btn-green }
 
-**Nguyen, T. M., Bharti, S., Yue, Z., Willey, C. D., & Chen, J. Y. (2021).** Statistical Enrichment Analysis of Samples: A General-Purpose Tool to Annotate Metadata Neighborhoods of Biological Samples. _Frontiers in big data_, 4, 725276.  <span class="fs-3">[doi](https://doi.org/10.3389/fdata.2021.725276){:target="_blank"}{: .btn }</span>
+Nguyen, T. M., Bharti, S., Yue, Z., Willey, C. D., & Chen, J. Y. (2021). **Statistical Enrichment Analysis of Samples: A General-Purpose Tool to Annotate Metadata Neighborhoods of Biological Samples.** _Frontiers in big data_, 4, 725276.  <span class="fs-3">[doi](https://doi.org/10.3389/fdata.2021.725276){:target="_blank"}{: .btn }</span>
 
 Statistical Enrichment Analysis of Samples (SEAS) is a tool to find which clinical (metadata) attributes are enriched within a sample subset. For example, SEAS answer the following questions:
 * I have population data with brain cancer survival time; I select an interested patient subcohort, such as who received X treatment; does this subcohort have long survival time?
