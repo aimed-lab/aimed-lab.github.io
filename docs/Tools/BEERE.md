@@ -8,6 +8,7 @@ nav_order: 4
 
 [Web Tool](http://discovery.informatics.uab.edu/BEERE/){:target="_blank"}{: .btn .btn-blue }
 [Docs](http://discovery.informatics.uab.edu/BEERE/index.php/pages/help){:target="_blank"}{: .btn .btn-green }
+[Ask Questions!](https://uabdatascience.slack.com/archives/C03LAU2METD){: .btn }
 
 ## About
 

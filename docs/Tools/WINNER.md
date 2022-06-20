@@ -7,6 +7,7 @@ nav_order: 7
 # WINNER
 
 [GitHub](https://github.com/aimed-uab/WINNER){:target="_blank"}{: .btn .btn-purple } 
+[Ask Questions!](https://uabdatascience.slack.com/archives/C03LPL4MZS5){: .btn }
 
 ## About
 

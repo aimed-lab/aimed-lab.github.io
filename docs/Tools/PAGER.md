@@ -9,6 +9,7 @@ nav_order: 2
 
 [Web Tool](http://discovery.informatics.uab.edu/PAGER/){:target="_blank"}{: .btn .btn-blue }
 [Docs](http://discovery.informatics.uab.edu/PAGER/index.php/pages/help){:target="_blank"}{: .btn .btn-green }
+[Ask Questions!](https://uabdatascience.slack.com/archives/C03KRR4RDD5){: .btn }
 
 ## About
 

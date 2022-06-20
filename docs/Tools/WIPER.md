@@ -8,6 +8,7 @@ nav_order: 5
 
 [Web Tool](http://discovery.informatics.uab.edu/WIPER){:target="_blank"}{: .btn .btn-blue }
 [Docs](http://discovery.informatics.uab.edu/WIPER/index.php/pages/help){:target="_blank"}{: .btn .btn-green }
+[Ask Questions!](https://uabdatascience.slack.com/archives/C03KWC3BML7){: .btn }
 
 ## About
 

@@ -9,6 +9,7 @@ nav_order: 6
 [GitHub](https://github.com/aimed-uab/Polar-Gini-Curve){:target="_blank"}{: .btn .btn-purple } 
 [Web Tool](https://nguyenminhthanh060.wixsite.com/polarginicurve){:target="_blank"}{: .btn .btn-blue }
 [Docs](https://nguyenminhthanh060.wixsite.com/polarginicurve/tutorial){:target="_blank"}{: .btn .btn-green }
+[Ask Questions!](https://uabdatascience.slack.com/archives/C03LPL3697T){: .btn }
 
 ## About
 

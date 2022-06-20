@@ -9,6 +9,7 @@ nav_order: 1
 [GitHub](https://github.com/aimed-uab/SEAS){:target="_blank"}{: .btn .btn-purple } 
 [Web Tool](https://aimed-lab.shinyapps.io/SEAS/){:target="_blank"}{: .btn .btn-blue }
 [Docs](https://aimed-uab.github.io/SEAS/){:target="_blank"}{: .btn .btn-green }
+[Ask Questions!](https://uabdatascience.slack.com/archives/C03KWBTPDJT){: .btn }
 
 ![Alt text](/assets/images/SEAS.png?raw=true "SEAS workflow")
 

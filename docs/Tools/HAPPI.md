@@ -9,6 +9,7 @@ nav_order: 3
 [GitHub](https://github.com/aimed-uab/HAPPI-database){:target="_blank"}{: .btn .btn-purple } 
 [Web Tool](http://discovery.informatics.uab.edu/HAPPI/index.php){:target="_blank"}{: .btn .btn-blue }
 [Docs](http://discovery.informatics.uab.edu/HAPPI/help.php){:target="_blank"}{: .btn .btn-green }
+[Ask Questions!](https://uabdatascience.slack.com/archives/C03L82QVACV){: .btn }
 
 
 ## About
