@@ -6,6 +6,7 @@ nav_order: 3
 ---
 ![Alt text](/assets/images/happi-logo.png?raw=true "HAPPI")
 
+[GitHub](https://github.com/aimed-uab/HAPPI-database){:target="_blank"}{: .btn .btn-purple } 
 [Web Tool](http://discovery.informatics.uab.edu/HAPPI/index.php){:target="_blank"}{: .btn .btn-blue }
 [Docs](http://discovery.informatics.uab.edu/HAPPI/help.php){:target="_blank"}{: .btn .btn-green }
 
