@@ -10,6 +10,8 @@ nav_order: 1
 [Web Tool](https://aimed-lab.shinyapps.io/SEAS/){:target="_blank"}{: .btn .btn-blue }
 [Docs](https://aimed-uab.github.io/SEAS/){:target="_blank"}{: .btn .btn-green }
 
+![Alt text](/assets/images/SEAS.png?raw=true "SEAS workflow")
+
 ## About
 
 Statistical Enrichment Analysis of Samples (SEAS) is a tool to find which clinical (metadata) attributes are enriched within a sample subset. For example, SEAS answer the following questions:
