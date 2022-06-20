@@ -15,4 +15,4 @@ BEERE is the abbreviation of Biomedical Entity Expansion, Ranking, and Explorati
 
 ## How to cite us
 
-Zongliang Yue, Christopher D Willey, Anita B Hjelmeland, Jake Y Chen, **BEERE: a web server for biomedical entity expansion**, ranking and explorations, _Nucleic Acids Research_, 4, Volume 47, Issue W1, 02 July 2019, Pages W578–W586,.  <span class="fs-3">[doi](https://doi.org/10.1093/nar/gkz428){:target="_blank"}</span>
+Zongliang Yue, Christopher D Willey, Anita B Hjelmeland, Jake Y Chen, **BEERE: a web server for biomedical entity expansion, ranking and explorations,** _Nucleic Acids Research_, 4, Volume 47, Issue W1, 02 July 2019, Pages W578–W586,.  <span class="fs-3">[doi](https://doi.org/10.1093/nar/gkz428){:target="_blank"}</span>
