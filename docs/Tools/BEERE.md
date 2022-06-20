@@ -4,7 +4,7 @@ title: BEERE
 parent: Tools
 nav_order: 4
 ---
-# BEERE
+![Alt text](/assets/images/beere-logo.png?raw=true "beere")
 
 [Web Tool](http://discovery.informatics.uab.edu/BEERE/){:target="_blank"}{: .btn .btn-blue }
 [Docs](http://discovery.informatics.uab.edu/BEERE/index.php/pages/help){:target="_blank"}{: .btn .btn-green }
