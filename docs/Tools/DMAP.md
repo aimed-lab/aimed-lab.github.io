@@ -29,5 +29,5 @@ Reliable measurements of how drug affect disease-related proteins are critical t
 
 
 ## How to cite us
-Huang, H., Nguyen, T., Ibrahim, S., Shantharam, S., Yue, Z., & Chen, J. Y. (2015). **MAP: a connectivity map database to enable identification of novel drug repositioning candidates.** _MC bioinformatics_, 2019, 16 Suppl 13(Suppl 13), S4.  <span class="fs-3">[doi](https://doi.org/10.1186/1471-2105-16-S13-S4){:target="_blank"}</span>
+Huang, H., Nguyen, T., Ibrahim, S., Shantharam, S., Yue, Z., & Chen, J. Y. (2015). **DMAP: a connectivity map database to enable identification of novel drug repositioning candidates.** _MC bioinformatics_, 2019, 16 Suppl 13(Suppl 13), S4.  <span class="fs-3">[doi](https://doi.org/10.1186/1471-2105-16-S13-S4){:target="_blank"}</span>
 
