@@ -37,3 +37,19 @@ PAGER Web APP is an interactive online application to perform the gene set enric
 ## How to cite us
 
 Yue, Z., Slominski, R., Bharti, S., & Chen, J. Y. (2022), **PAGER Web APP: An Interactive, Online Gene Set and Network Interpretation Tool for Functional Genomics.**, _Frontiers in genetics, 13_, 820361.<span class="fs-3">[doi](https://doi.org/10.3389/fgene.2022.820361){:target="_blank"}</span>
+
+
+# PAGER-CoV
+![Alt text](/assets/images/PAGER-CoV-image.png?raw=true "PAGER-CoV")
+
+[GitHub](https://github.com/aimed-uab/PAGER-COV_RUN){:target="_blank"}{: .btn .btn-purple } 
+[Web Tool](http://discovery.informatics.uab.edu/PAGER-COV/){:target="_blank"}{: .btn .btn-blue }
+[Ask Questions!](https://uabdatascience.slack.com/archives/C03KRR4RDD5){: .btn }
+
+## About
+
+PAGER-CoV (http://discovery.informatics.uab.edu/PAGER-CoV/) is a new web-based database that can help biomedical researchers interpret coronavirus-related functional genomic study results in the context of curated knowledge of host viral infection, inflammatory response, organ damage, and tissue repair. The new database consists of 11 835 PAGs (Pathways, Annotated gene-lists, or Gene signatures) from 33 public data sources. Through the web user interface, users can search by a query gene or a query term and retrieve significantly matched PAGs with all the curated information. Users can navigate from a PAG of interest to other related PAGs through either shared PAG-to-PAG co-membership relationships or PAG-to-PAG regulatory relationships, totaling 19 996 993. Users can also retrieve enriched PAGs from an input list of COVID-19 functional study result genes, customize the search data sources, and export all results for subsequent offline data analysis. In a case study, we performed a gene set enrichment analysis (GSEA) of a COVID-19 RNA-seq data set from the Gene Expression Omnibus database. Compared with the results using the standard PAGER database, PAGER-CoV allows for more sensitive matching of known immune-related gene signatures. We expect PAGER-CoV to be invaluable for biomedical researchers to find molecular biology mechanisms and tailored therapeutics to treat COVID-19 patients.
+
+
+## How to cite us
+Zongliang Yue, Eric Zhang, Clark Xu, Sunny Khurana, Nishant Batra, Son Do Hai Dang, James J Cimino, Jake Y Chen, PAGER-CoV: a comprehensive collection of pathways, annotated gene-lists and gene signatures for coronavirus disease studies, Nucleic Acids Research, Volume 49, Issue D1, 8 January 2021, Pages D589–D599, https://doi.org/10.1093/nar/gkaa1094
