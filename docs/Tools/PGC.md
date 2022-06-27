@@ -37,7 +37,9 @@ Cluster specific biomarkers: by comparing PGC of the whole cluster cell-points a
 ## Tutorial
 ### 1. Dataset
 
-This tutorial uses the neonatal mouse heart single cell dataset from [http://bis.zju.edu.cn/MCA/](http://bis.zju.edu.cn/MCA/). The processed dataset is at <span class="fs-3">[Supplemental_Data_3_-_Neonatal_Heart_Simulation](https://figshare.com/articles/dataset/Supplemental_Data_3_-_Neonatal_Heart_Simulation/11933520){:target="_blank"}</span>
+This tutorial uses the neonatal mouse heart single cell dataset from [http://bis.zju.edu.cn/MCA/](http://bis.zju.edu.cn/MCA/). 
+
+* The processed dataset is at <span class="fs-3">[Supplemental_Data_3_-_Neonatal_Heart_Simulation](https://figshare.com/articles/dataset/Supplemental_Data_3_-_Neonatal_Heart_Simulation/11933520){:target="_blank"}</span>
 
 ```
 %% load the dataset
