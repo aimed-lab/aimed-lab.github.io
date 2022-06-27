@@ -15,27 +15,29 @@ In this work, we design the Polar Gini Curve (PGC) technique, which combines the
 
 **Main idea:** A representation combining _spatial information_ and _gene expression_ from single-cell data.
 
-       Spatial information includes:
+Spatial information includes:
 
-              Density: how a cell are placed next to each other in the spatial space (i.e. projected 2D coordinate, 2D tissue image).
+* Density: how a cell are placed next to each other in the spatial space (i.e. projected 2D coordinate, 2D tissue image).
 
-              Shape: how the cell cluster looks (boundary) in the spatial space.
+* Shape: how the cell cluster looks (boundary) in the spatial space.
 
-       Gene expression: is used to select an interested subset of interested from the cell cluster
+* Gene expression: is used to select an interested subset of interested from the cell cluster
 
 
 **Key techniques:**
 
-        Capturing shape information: project the cell-points onto each angles, from 0, 0.1, 0.2, ... 360 degrees (smaller resolution is better)
+* Capturing shape information: project the cell-points onto each angles, from 0, 0.1, 0.2, ... 360 degrees (smaller resolution is better)
 
-        In each angle, compute the Gini index for the projected cell-points.
+* In each angle, compute the Gini index for the projected cell-points.
+
 ![Alt text](/assets/images/pgc-img.webp?raw=true "PGC")
+
 Cluster specific biomarkers: by comparing PGC of the whole cluster cell-points and PGC of the cell-points expressing a specific gene.
 
 ## Tutorial
 ### 1. Dataset
 
-This tutorial uses the neonatal mouse heart single cell dataset from http://bis.zju.edu.cn/MCA/. The processed dataset is at https://figshare.com/articles/dataset/Supplemental_Data_3_-_Neonatal_Heart_Simulation/11933520. This tutorial uses Matlab verison > 2017.
+This tutorial uses the neonatal mouse heart single cell dataset from [http://bis.zju.edu.cn/MCA/](http://bis.zju.edu.cn/MCA/). The processed dataset is at [[http://localhost:4000](https://figshare.com/articles/dataset/Supplemental_Data_3_-_Neonatal_Heart_Simulation/11933520)](https://figshare.com/articles/dataset/Supplemental_Data_3_-_Neonatal_Heart_Simulation/11933520). This tutorial uses Matlab verison > 2017.
 
 ```
 %% load the dataset
@@ -74,7 +76,7 @@ ylabel('50th nearest distances');
 clusterID = dbscan(coordinate,3,50);; % cluster ID
 ```
 
-Cluster 1 are cardiomyocytes. Actc1 is a very well-known marker for this cell type (https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6249224/). To verify:
+Cluster 1 are cardiomyocytes. Actc1 is a very well-known marker for this cell type [https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6249224/](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6249224/). To verify:
 
 ```
 gscatter(coordinate(:, 1), coordinate(:, 2), clusterID); % view all clusters
