@@ -39,7 +39,7 @@ PAGER Web APP is an interactive online application to perform the gene set enric
 Yue, Z., Slominski, R., Bharti, S., & Chen, J. Y. (2022), **PAGER Web APP: An Interactive, Online Gene Set and Network Interpretation Tool for Functional Genomics.**, _Frontiers in genetics, 13_, 820361.<span class="fs-3">[doi](https://doi.org/10.3389/fgene.2022.820361){:target="_blank"}</span>
 
 
-# PAGER-CoV
+
 ![Alt text](/assets/images/PAGER-CoV-image.png?raw=true "PAGER-CoV")
 
 [GitHub](https://github.com/aimed-uab/PAGER-COV_RUN){:target="_blank"}{: .btn .btn-purple } 
@@ -52,4 +52,4 @@ PAGER-CoV (http://discovery.informatics.uab.edu/PAGER-CoV/) is a new web-based d
 
 
 ## How to cite us
-Zongliang Yue, Eric Zhang, Clark Xu, Sunny Khurana, Nishant Batra, Son Do Hai Dang, James J Cimino, Jake Y Chen, PAGER-CoV: a comprehensive collection of pathways, annotated gene-lists and gene signatures for coronavirus disease studies, Nucleic Acids Research, Volume 49, Issue D1, 8 January 2021, Pages D589–D599, https://doi.org/10.1093/nar/gkaa1094
+Zongliang Yue, Eric Zhang, Clark Xu, Sunny Khurana, Nishant Batra, Son Do Hai Dang, James J Cimino, Jake Y Chen, **PAGER-CoV: a comprehensive collection of pathways, annotated gene-lists and gene signatures for coronavirus disease studies,** _Nucleic Acids Research_, Volume 49, Issue D1, 8 January 2021, Pages D589–D599, <span class="fs-3">[doi](https://doi.org/10.1093/nar/gkaa1094){:target="_blank"}</span>

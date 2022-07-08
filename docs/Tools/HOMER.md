@@ -4,7 +4,7 @@ title: HOMER
 parent: Tools
 nav_order: 9
 ---
-# HOMER
+![Alt text](/assets/images/Homer-logo.jpeg?raw=true "HAPPI")
 
 [Web Tool](http://discovery.informatics.uab.edu/HOMER/){:target="_blank"}{: .btn .btn-blue }
 
@@ -25,6 +25,6 @@ HOMER is a new resource for analyzing, identifying, and characterizing organ-spe
 
 ## How to cite us
 
-Zhang, F., Chen, J.Y. HOMER: a human organ-specific molecular electronic repository. BMC Bioinformatics 12, S4 (2011). https://doi.org/10.1186/1471-2105-12-S10-S4
+Zhang, F., Chen, J.Y. **HOMER: a human organ-specific molecular electronic repository.** _BMC Bioinformatics 12_, S4 (2011). <span class="fs-3">[doi](https://doi.org/10.1186/1471-2105-12-S10-S4){:target="_blank"}</span>
 
 
