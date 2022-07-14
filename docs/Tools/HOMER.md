@@ -4,7 +4,7 @@ title: HOMER
 parent: Tools
 nav_order: 9
 ---
-![Alt text](/assets/images/Homer-logo.jpeg?raw=true "HAPPI")
+![Alt text](/assets/images/Homer-logo.png?raw=true "HAPPI")
 
 [Web Tool](http://discovery.informatics.uab.edu/HOMER/){:target="_blank"}{: .btn .btn-blue }
 
