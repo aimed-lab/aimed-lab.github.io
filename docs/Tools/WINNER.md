@@ -4,7 +4,7 @@ title: WINNER
 parent: Tools
 nav_order: 7
 ---
-# WINNER
+![Alt text](/assets/images/winner.png?raw=true "WINNER")
 
 [GitHub](https://github.com/aimed-uab/WINNER){:target="_blank"}{: .btn .btn-purple } 
 [Ask Questions!](https://uabdatascience.slack.com/archives/C03LPL4MZS5){: .btn }
