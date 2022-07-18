@@ -2,7 +2,7 @@
 layout: default
 title: HIP2
 parent: Tools
-nav_order: 9
+nav_order: 10
 ---
 # HIP2 
 an online database of human plasma proteins from healthy individuals
@@ -25,4 +25,4 @@ To aid future protein biomarker studies of disease and health from human plasma,
 
 ## How to cite us
 
-Saha, S., Harrison, S. H., Shen, C., Tang, H., Radivojac, P., Arnold, R. J., Zhang, X., & Chen, J. Y. (2008). **HIP2: an online database of human plasma proteins from healthy individuals.** _BMC medical genomics,_ 1, 12. <span class="fs-3">[doi](https://doi.org/10.1186/1755-8794-1-12{:target="_blank"}</span>
+Saha, S., Harrison, S. H., Shen, C., Tang, H., Radivojac, P., Arnold, R. J., Zhang, X., & Chen, J. Y. (2008). **HIP2: an online database of human plasma proteins from healthy individuals.** _BMC medical genomics,_ 1, 12. <span class="fs-3">[doi](https://doi.org/10.1186/1755-8794-1-12) {:target="_blank"}</span>
