@@ -7,6 +7,8 @@ nav_order: 9
 ![Alt text](/assets/images/homer-logo.png?raw=true "HAPPI")
 
 [Web Tool](http://discovery.informatics.uab.edu/HOMER/){:target="_blank"}{: .btn .btn-blue }
+[Codes and Docs](https://github.com/aimed-lab/HOMER){:target="_blank"}{: .btn .btn-purple}
+
 
 # About
 
