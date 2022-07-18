@@ -4,7 +4,7 @@ title: DMAP
 parent: Tools
 nav_order: 8
 ---
-![Alt text](/assets/images/DMAP-logo.jpeg?raw=true "DMAP")
+![Alt text](/assets/images/DMAP-logo.png?raw=true "DMAP")
 
 [Web Tool](http://discovery.informatics.uab.edu/dmap/){:target="_blank"}{: .btn .btn-blue }
 [Docs](https://discovery.informatics.uab.edu/dmap/f?p=101:13::::::){:target="_blank"}{: .btn .btn-green }
