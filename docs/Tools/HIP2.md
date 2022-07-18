@@ -7,7 +7,7 @@ nav_order: 10
 # HIP2 
 an online database of human plasma proteins from healthy individuals
 
-[GitHub](http://discovery.informatics.uab.edu/HOMER/){:target="_blank"}{: .btn .btn-purple}
+[Codes and Docs](https://github.com/aimed-lab/HIP2){:target="_blank"}{: .btn .btn-purple}
 
 ## Abstract
 
