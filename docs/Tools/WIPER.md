@@ -4,7 +4,7 @@ title: WIPER
 parent: Tools
 nav_order: 5
 ---
-![Alt text](/assets/images/wiper-logo.png?raw=true "wiper")
+![Alt text](/assets/images/wiper.png?raw=true "wiper")
 
 [Web Tool](http://discovery.informatics.uab.edu/WIPER){:target="_blank"}{: .btn .btn-blue }
 [Docs](http://discovery.informatics.uab.edu/WIPER/index.php/pages/help){:target="_blank"}{: .btn .btn-green }

@@ -4,7 +4,7 @@ title: SEAS
 parent: Tools
 nav_order: 1
 ---
-# SEAS
+![Alt text](/assets/images/SEAS-logo.png?raw=true "SEAS")
 
 [GitHub](https://github.com/aimed-uab/SEAS){:target="_blank"}{: .btn .btn-purple } 
 [Web Tool](https://aimed-lab.shinyapps.io/SEAS/){:target="_blank"}{: .btn .btn-blue }

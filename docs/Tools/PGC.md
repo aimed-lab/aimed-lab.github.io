@@ -4,7 +4,7 @@ title: PGC
 parent: Tools
 nav_order: 6
 ---
-# Polar Gini Curve (PGC)
+![Alt text](/assets/images/PGC-logo.png?raw=true "Polar Gini Curve (PGC)")
 
 [GitHub](https://github.com/aimed-uab/Polar-Gini-Curve){:target="_blank"}{: .btn .btn-purple } 
 [Ask Questions!](https://uabdatascience.slack.com/archives/C03LPL3697T){: .btn }
