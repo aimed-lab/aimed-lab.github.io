@@ -26,6 +26,6 @@ overall network architectur
 
 ## How to cite us
 
-Nguyen T, Yue Z, Slominski R, Welner R, Zhang J, Chen JY. **WINNER: A network biology tool for biomolecular characterization and prioritization.** _Front Big Data_, 4, 2022 Nov 4;5:1016606.  <span class="fs-3">[doi](https://doi.org/10.3389/fdata.2022.1016606){:target="_blank"}</span>
+Nguyen T, Yue Z, Slominski R, Welner R, Zhang J, Chen JY. **WINNER: A network biology tool for biomolecular characterization and prioritization.** _Front Big Data_, 4, 2022 Nov 4;5:1016606.  <span class="fs-3">[doi](https://doi.org/10.3389/fdata.2022.1016606){:target="_blank"}</span> <span class="fs-3">[PMID: 36407327](https://pubmed.ncbi.nlm.nih.gov/36407327/){:target="_blank"}</span>
 
 
